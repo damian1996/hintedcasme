@@ -1,0 +1,8 @@
+DETAILS_ACC = 'details/'
+DETAILS_MASK = 'details_mask/'
+DETAILS_BIN_MASK = 'details_bin_mask/'
+AVG_RESULTS = 'averaged_results/'
+SAVED_MODELS = 'saved_models/'
+LAST_MODEL = 'last_models/'
+DATA_PATH = 'data/'
+SRC_PATH = ''
